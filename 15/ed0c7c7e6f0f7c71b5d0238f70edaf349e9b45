@@ -1,0 +1,21 @@
+images/Dockerfile
+  s_eab886a0b99769::t_19b9065c96c88c 5,13
+images/Dockerfile.nested-podman
+  s_eab886a0b99769::t_f26ab3fffe4919 5,13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "15ed0c7c7e6f0f7c71b5d0238f70edaf349e9b45",
+  "prompts": {},
+  "sessions": {
+    "s_eab886a0b99769": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "c2a83516-934e-4b78-b242-4676f8dd60b1",
+        "model": "gemini-3.5-flash"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
