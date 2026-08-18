@@ -1,0 +1,26 @@
+commands/nid-team/rebase-manager.toml
+  s_00aa6a8ae7eb7a::t_1b76c8db5c8c97 36,38-39
+  s_00aa6a8ae7eb7a::t_aaeb0e7f694a1e 1-35,37,40-61
+plugins/nid-team/commands/rebase-manager.md
+  s_00aa6a8ae7eb7a::t_b8a834b5fa5306 34,37
+  s_00aa6a8ae7eb7a::t_f4dad997294797 38
+gemini-extension.json
+  s_00aa6a8ae7eb7a::t_1b76c8db5c8c97 3
+  s_00aa6a8ae7eb7a::t_aaeb0e7f694a1e 1-2,4-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "bd0fbfbb5ba53a80220bd3437f4bc0ca381b6bcd",
+  "prompts": {},
+  "sessions": {
+    "s_00aa6a8ae7eb7a": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "13ee0372-8fb4-405d-ba98-c1dc4df591d0",
+        "model": "gemini-3.5-flash"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
