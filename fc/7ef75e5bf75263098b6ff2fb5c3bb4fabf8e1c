@@ -1,0 +1,21 @@
+plugins/nid-team/rebase/rebase_manager.py
+  s_00aa6a8ae7eb7a::t_33ea72511d18bd 336,342-345,411,413-418,421,423,430,432-437,440
+  s_00aa6a8ae7eb7a::t_b9da5e628a2088 442
+  s_00aa6a8ae7eb7a::t_ccbed2c324a08a 135,585-586,588-589,591-603,605-611,613-622,640-652,667-675,738-767
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "fc7ef75e5bf75263098b6ff2fb5c3bb4fabf8e1c",
+  "prompts": {},
+  "sessions": {
+    "s_00aa6a8ae7eb7a": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "13ee0372-8fb4-405d-ba98-c1dc4df591d0",
+        "model": "gemini-3.1-pro-preview-customtools"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
