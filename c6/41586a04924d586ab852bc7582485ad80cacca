@@ -1,0 +1,47 @@
+plugins/nid-team/rebase/rebase_manager.py
+  s_00aa6a8ae7eb7a::t_eeb318aff01dd3 11-12,20-25,27-30,33-36,39-42,45-48
+  s_00aa6a8ae7eb7a::t_a1edbfd7c29574 343-345,347-348
+  s_00aa6a8ae7eb7a::t_9bc70194af6c86 8
+  s_00aa6a8ae7eb7a::t_ceef8d3a85fc44 299-305,316
+  s_00aa6a8ae7eb7a::t_f5f1ddba697aac 756-762,772,774-775
+  s_00aa6a8ae7eb7a::t_08e41e34729d49 824-840,844-852,854,866,879-880,883-891,893
+  s_00aa6a8ae7eb7a::t_2ec13ff1fae178 317-322
+  s_00aa6a8ae7eb7a::t_b3c53631155250 286-287
+  s_00aa6a8ae7eb7a::t_c6275035572558 394,420-422
+  s_00aa6a8ae7eb7a::t_246db189a0dceb 74-90,92-102,110-111,114-119
+  s_00aa6a8ae7eb7a::t_de750304dfcff1 680-681,684-690
+  s_00aa6a8ae7eb7a::t_920e122cb9981b 189,212,218-238
+  s_00aa6a8ae7eb7a::t_0568c82ed30ba7 802,806-807,809-810,812-814
+  s_00aa6a8ae7eb7a::t_28aa512e63745c 917-924,929,931-933,942-943,961,975,978-982
+  s_00aa6a8ae7eb7a::t_35ecab400f187f 997
+  s_00aa6a8ae7eb7a::t_88337f7ac6c07d 595-601
+  s_00aa6a8ae7eb7a::t_b0429d8cbec9c2 619,621-632
+  s_00aa6a8ae7eb7a::t_4bbd8030153ca2 1039,1063,1093-1105,1107-1139
+  s_00aa6a8ae7eb7a::t_955e34e12e7df1 239
+plugins/nid-team/commands/rebase-manager.md
+  s_00aa6a8ae7eb7a::t_ac3b58921bf57e 24
+commands/nid-team/rebase-manager.toml
+  s_00aa6a8ae7eb7a::t_1932e862e41e87 26
+plugins/nid-team/rebase/WORKFLOW.md
+  s_00aa6a8ae7eb7a::t_de973b83e9e201 57,65
+  s_00aa6a8ae7eb7a::t_4da017d3a62a13 37
+  s_00aa6a8ae7eb7a::t_4fc404d2124686 13
+gemini-extension.json
+  s_00aa6a8ae7eb7a::t_1932e862e41e87 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "c641586a04924d586ab852bc7582485ad80cacca",
+  "prompts": {},
+  "sessions": {
+    "s_00aa6a8ae7eb7a": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "13ee0372-8fb4-405d-ba98-c1dc4df591d0",
+        "model": "gemini-3.1-pro-preview-customtools"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
