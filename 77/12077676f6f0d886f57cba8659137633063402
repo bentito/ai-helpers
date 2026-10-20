@@ -1,0 +1,35 @@
+.claude-plugin/marketplace.json
+  s_3d06adcc491466::t_8fcd30d0e792a2 580
+plugins/nid-team/.claude-plugin/plugin.json
+  s_3d06adcc491466::t_068ec80d9591c9 4
+plugins/nid-team/README.md
+  s_3d06adcc491466::t_86b301cb58ad39 28-32
+plugins/nid-team/commands/sync-pr-dashboard.md
+  s_3d06adcc491466::t_2658dfb54c42f9 35,57,68,102
+plugins/nid-team/scripts/pr-dashboard/config.sh
+  s_3d06adcc491466::t_466f99c9fcc3b1 53-57,108,119
+plugins/nid-team/scripts/pr-dashboard/list-unclassified-areas.sh
+  s_3d06adcc491466::t_20242298236511 19
+plugins/nid-team/scripts/pr-dashboard/nudge-prs.sh
+  s_3d06adcc491466::t_64c66cc00ccde5 31
+plugins/nid-team/scripts/pr-dashboard/sync-dashboard.sh
+  s_3d06adcc491466::t_81ed76b675e7f2 53,172-175,188-191,195-198,202-203,210-218,225-226,315,382
+plugins/nid-team/tests/test_shared_pr_discovery.py
+  s_3d06adcc491466::t_f59d143e411ee6 1-183
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "7712077676f6f0d886f57cba8659137633063402",
+  "prompts": {},
+  "sessions": {
+    "s_3d06adcc491466": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1550c-6a91-7aa2-9b04-f67730cd8648",
+        "model": "unknown"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
