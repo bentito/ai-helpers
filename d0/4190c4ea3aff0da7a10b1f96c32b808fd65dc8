@@ -1,0 +1,21 @@
+.claude-plugin/marketplace.json
+  s_3d06adcc491466::t_bc7abf67c6c6de 580
+plugins/nid-team/.claude-plugin/plugin.json
+  s_3d06adcc491466::t_7be57e58e24b93 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "d04190c4ea3aff0da7a10b1f96c32b808fd65dc8",
+  "prompts": {},
+  "sessions": {
+    "s_3d06adcc491466": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1550c-6a91-7aa2-9b04-f67730cd8648",
+        "model": "unknown"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
