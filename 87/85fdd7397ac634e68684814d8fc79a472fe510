@@ -1,0 +1,27 @@
+plugins/nid-team/README.md
+  s_3d06adcc491466::t_5881e655f4ad7b 32-34
+plugins/nid-team/commands/sync-pr-dashboard.md
+  s_3d06adcc491466::t_bb67fec6b58e28 35
+plugins/nid-team/scripts/pr-dashboard/config.sh
+  s_3d06adcc491466::t_0475bd50e15b42 53-55
+plugins/nid-team/scripts/pr-dashboard/sync-dashboard.sh
+  s_3d06adcc491466::t_76a6e4ed0b35a1 196
+plugins/nid-team/tests/test_shared_pr_discovery.py
+  s_3d06adcc491466::t_6578699749bb0d 77-79,100,103,109-110,119-122,152,154,185,187,192-193
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "8785fdd7397ac634e68684814d8fc79a472fe510",
+  "prompts": {},
+  "sessions": {
+    "s_3d06adcc491466": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1550c-6a91-7aa2-9b04-f67730cd8648",
+        "model": "unknown"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
