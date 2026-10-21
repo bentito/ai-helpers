@@ -6,12 +6,16 @@ plugins/nid-team/README.md
   s_3d06adcc491466::t_cb2ae986babeab 24-27
 plugins/nid-team/commands/nudge-prs.md
   s_3d06adcc491466::t_ec61c0f547a6a7 25
+  s_3d06adcc491466::t_ebc194b7757fa1 25
 plugins/nid-team/commands/sync-pr-dashboard.md
   s_3d06adcc491466::t_d81a241aa69e0b 30,43
+  s_3d06adcc491466::t_6fa9e991c589ab 30,43
 plugins/nid-team/skills/nudge-prs/SKILL.md
   s_3d06adcc491466::t_386b3571ef0c0a 1-18
+  s_3d06adcc491466::t_0e8c362dde5851 1-18
 plugins/nid-team/skills/sync-pr-dashboard/SKILL.md
   s_3d06adcc491466::t_bc683c1c797190 1-18
+  s_3d06adcc491466::t_d7c57abc1bd580 1-18
 ---
 {
   "schema_version": "authorship/3.0.0",
