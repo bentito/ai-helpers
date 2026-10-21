@@ -1,0 +1,29 @@
+.claude-plugin/marketplace.json
+  s_3d06adcc491466::t_a02c4a5895e586 580
+plugins/nid-team/.claude-plugin/plugin.json
+  s_3d06adcc491466::t_02d04cfa96ef3f 4
+plugins/nid-team/commands/nudge-prs.md
+  s_3d06adcc491466::t_ebc194b7757fa1 25
+plugins/nid-team/commands/sync-pr-dashboard.md
+  s_3d06adcc491466::t_6fa9e991c589ab 30,43
+plugins/nid-team/skills/nudge-prs/SKILL.md
+  s_3d06adcc491466::t_0e8c362dde5851 1-18
+plugins/nid-team/skills/sync-pr-dashboard/SKILL.md
+  s_3d06adcc491466::t_d7c57abc1bd580 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "a47e279f8b94c095162e3e16edcffdf9fe79eca9",
+  "prompts": {},
+  "sessions": {
+    "s_3d06adcc491466": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1550c-6a91-7aa2-9b04-f67730cd8648",
+        "model": "unknown"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
