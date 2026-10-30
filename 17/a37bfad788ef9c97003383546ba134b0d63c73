@@ -1,0 +1,21 @@
+plugins/nid-team/rebase/test_rebase_manager.py
+  s_2ba7b5d3d347a4::t_4f2e8a8519b865 89,110,124,136,176,200,268,330,378,450
+plugins/openshift/skills/rebase/SKILL.md
+  s_2ba7b5d3d347a4::t_f0af7ae6cc1c3e 187-193
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "17a37bfad788ef9c97003383546ba134b0d63c73",
+  "prompts": {},
+  "sessions": {
+    "s_2ba7b5d3d347a4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18d8a-fc79-7d23-b94f-9bacadfbb9eb",
+        "model": "unknown"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
