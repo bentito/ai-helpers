@@ -1,0 +1,41 @@
+plugins/nid-team/rebase/WORKFLOW.md
+  s_24ce5c0d587ed3::t_302e4e679816e6 72-80,154-157
+plugins/nid-team/rebase/evaluations/coredns-197.md
+  s_2ba7b5d3d347a4::t_0e7a18e4dfeef6 1-100
+plugins/nid-team/rebase/rebase_manager.py
+  s_24ce5c0d587ed3::t_cf6f2d9fd0c812 19,27,33,38,44,53,63,66,72,77,79-81,87,91-106,108,122-127,164-165,167,175,182,186,207,212-214,217,230,234,238,259,270,319,327,350,357,376,387,393,409,432,457,468,519-520
+plugins/nid-team/rebase/test_rebase_manager.py
+  s_24ce5c0d587ed3::t_6fef67334d6d8b 4-5,13,17-19,171-222,290-311,407-439
+plugins/nid-team/skills/rebase-manager/SKILL.md
+  s_2ba7b5d3d347a4::t_f6aaea21a95fe7 93-96,110-114,116-117
+plugins/openshift/commands/rebase.md
+  s_2ba7b5d3d347a4::t_92d2bc3bdbec78 28-29
+plugins/openshift/skills/rebase/SKILL.md
+  s_2ba7b5d3d347a4::t_475b59d6604d1f 33-36,59-63,70-72,101,112-116,127-133,141-144,149-152,174-185
+plugins/openshift/skills/rebase/references/artifacts.md
+  s_2ba7b5d3d347a4::t_39b7c7f7bd8219 14,17,30-32,34-36,70-74,86-88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "4162ba69662cf0ebfdafadf76a872e884ba0555c",
+  "prompts": {},
+  "sessions": {
+    "s_24ce5c0d587ed3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18e31-93a1-7d91-8a7a-27cef4f76110",
+        "model": "unknown"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    },
+    "s_2ba7b5d3d347a4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18d8a-fc79-7d23-b94f-9bacadfbb9eb",
+        "model": "unknown"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
