@@ -1,0 +1,23 @@
+.claude-plugin/marketplace.json
+  s_9194ef3b2ed5e4::t_0534b40336c066 137
+plugins/teams/.claude-plugin/plugin.json
+  s_9194ef3b2ed5e4::t_5c1968e46fe632 4
+plugins/teams/team_component_map.json
+  s_9194ef3b2ed5e4::t_c772b037a052e2 5,836-837,1525
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "2ce8db0af05e4afa4dcdd76fe5b1a42a0ce05112",
+  "prompts": {},
+  "sessions": {
+    "s_9194ef3b2ed5e4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a21f-9f44-7e92-a600-10ab476230ac",
+        "model": "unknown"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
