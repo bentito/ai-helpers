@@ -1,0 +1,25 @@
+plugins/nid-team/rebase/WORKFLOW.md
+  s_98e529ad590a96::t_43714b75c9e34d 28-41
+plugins/nid-team/skills/rebase-manager/SKILL.md
+  s_98e529ad590a96::t_dcbf8d5864fcfc 51-58,80-84,158-160
+plugins/openshift/skills/rebase/SKILL.md
+  s_98e529ad590a96::t_8561fb4bb905f1 10-13,35,41-71,76,93,99-106,125-128,204-208,219-220
+plugins/openshift/skills/rebase/references/artifacts.md
+  s_98e529ad590a96::t_8b0e120e163b0c 17-20,25-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "fa246999fd7060262cb05f560d505d9f1210b18b",
+  "prompts": {},
+  "sessions": {
+    "s_98e529ad590a96": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1cacb-cd73-7ad2-877c-f9501b9c2b67",
+        "model": "unknown"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
